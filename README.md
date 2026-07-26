@@ -101,7 +101,7 @@ Full Stack Developer • MERN Stack • React
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/momindev01/momindev01/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/momindev01/momindev01/gh-pages/github-contribution-grid-snake-dark.svg" />
 
 </p>
 
